@@ -1,0 +1,74 @@
+﻿<Window x:Class="JocMemory.View.CustomSizeDialog"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Custom Board Size"
+        Height="300" Width="300"
+        WindowStartupLocation="CenterScreen"
+        Background="#FFF8F0"
+        ResizeMode="NoResize"
+        WindowStyle="SingleBorderWindow">
+
+    <Border CornerRadius="10" Background="#FFF8F0" Padding="15">
+        <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center">
+
+            <TextBlock Text="Set the board dimensions"
+                       FontSize="18"
+                       FontWeight="Bold"
+                       Foreground="#504746"
+                       Margin="0,0,0,15"
+                       HorizontalAlignment="Center"/>
+
+            <TextBlock Text="Rows (M):"
+                       FontSize="14"
+                       Foreground="#504746"
+                       Margin="0,0,0,5"/>
+            <TextBox x:Name="RowsBox"
+                     Height="30"
+                     Width="150"
+                     FontSize="14"
+                     Background="WhiteSmoke"
+                     BorderBrush="#B89685"
+                     Margin="0,0,0,15"/>
+
+            <TextBlock Text="Columns (N):"
+                       FontSize="14"
+                       Foreground="#504746"
+                       Margin="0,0,0,5"/>
+            <TextBox x:Name="ColsBox"
+                     Height="30"
+                     Width="150"
+                     FontSize="14"
+                     Background="WhiteSmoke"
+                     BorderBrush="#B89685"
+                     Margin="0,0,0,20"/>
+
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                <Button Content="OK"
+                        Width="80"
+                        Height="35"
+                        Margin="5"
+                        Background="#B89685"
+                        Foreground="White"
+                        FontWeight="Bold"
+                        BorderThickness="0"
+                        Click="Ok_Click"
+                        Cursor="Hand">
+                    <Button.Effect>
+                        <DropShadowEffect BlurRadius="5" ShadowDepth="2" Opacity="0.4"/>
+                    </Button.Effect>
+                </Button>
+
+                <Button Content="Cancel"
+                        Width="80"
+                        Height="35"
+                        Margin="5"
+                        Background="LightGray"
+                        Foreground="Black"
+                        FontWeight="Bold"
+                        BorderThickness="0"
+                        Click="Cancel_Click"
+                        Cursor="Hand"/>
+            </StackPanel>
+        </StackPanel>
+    </Border>
+</Window>

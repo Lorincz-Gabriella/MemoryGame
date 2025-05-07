@@ -1,0 +1,39 @@
+{
+  "CategoryName": "Rabbits",
+  "Rows": 2,
+  "Cols": 3,
+  "RemainingSeconds": 111,
+  "ElapsedSeconds": 9,
+  "Cards": [
+    {
+      "ImagePath": "C:\\Users\\Asus\\Desktop\\Anul II\\Semestrul II\\MAP\\JocMemory\\JocMemory\\bin\\Debug\\Images/Rabbits\\r11.jpg",
+      "IsFlipped": false,
+      "IsMatched": false
+    },
+    {
+      "ImagePath": "C:\\Users\\Asus\\Desktop\\Anul II\\Semestrul II\\MAP\\JocMemory\\JocMemory\\bin\\Debug\\Images/Rabbits\\r8.jpg",
+      "IsFlipped": true,
+      "IsMatched": true
+    },
+    {
+      "ImagePath": "C:\\Users\\Asus\\Desktop\\Anul II\\Semestrul II\\MAP\\JocMemory\\JocMemory\\bin\\Debug\\Images/Rabbits\\r14.jpg",
+      "IsFlipped": true,
+      "IsMatched": true
+    },
+    {
+      "ImagePath": "C:\\Users\\Asus\\Desktop\\Anul II\\Semestrul II\\MAP\\JocMemory\\JocMemory\\bin\\Debug\\Images/Rabbits\\r11.jpg",
+      "IsFlipped": false,
+      "IsMatched": false
+    },
+    {
+      "ImagePath": "C:\\Users\\Asus\\Desktop\\Anul II\\Semestrul II\\MAP\\JocMemory\\JocMemory\\bin\\Debug\\Images/Rabbits\\r14.jpg",
+      "IsFlipped": true,
+      "IsMatched": true
+    },
+    {
+      "ImagePath": "C:\\Users\\Asus\\Desktop\\Anul II\\Semestrul II\\MAP\\JocMemory\\JocMemory\\bin\\Debug\\Images/Rabbits\\r8.jpg",
+      "IsFlipped": true,
+      "IsMatched": true
+    }
+  ]
+}

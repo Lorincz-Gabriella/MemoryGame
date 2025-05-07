@@ -1,0 +1,89 @@
+{
+  "CategoryName": "Eggs",
+  "Rows": 4,
+  "Cols": 4,
+  "RemainingSeconds": 86,
+  "ElapsedSeconds": 34,
+  "Cards": [
+    {
+      "ImagePath": "C:\\Users\\Asus\\Desktop\\Anul II\\Semestrul II\\MAP\\JocMemory\\JocMemory\\bin\\Debug\\Images/Eggs\\e16.jpg",
+      "IsFlipped": false,
+      "IsMatched": false
+    },
+    {
+      "ImagePath": "C:\\Users\\Asus\\Desktop\\Anul II\\Semestrul II\\MAP\\JocMemory\\JocMemory\\bin\\Debug\\Images/Eggs\\e15.jpg",
+      "IsFlipped": false,
+      "IsMatched": false
+    },
+    {
+      "ImagePath": "C:\\Users\\Asus\\Desktop\\Anul II\\Semestrul II\\MAP\\JocMemory\\JocMemory\\bin\\Debug\\Images/Eggs\\e3.jpg",
+      "IsFlipped": false,
+      "IsMatched": false
+    },
+    {
+      "ImagePath": "C:\\Users\\Asus\\Desktop\\Anul II\\Semestrul II\\MAP\\JocMemory\\JocMemory\\bin\\Debug\\Images/Eggs\\e5.jpg",
+      "IsFlipped": false,
+      "IsMatched": false
+    },
+    {
+      "ImagePath": "C:\\Users\\Asus\\Desktop\\Anul II\\Semestrul II\\MAP\\JocMemory\\JocMemory\\bin\\Debug\\Images/Eggs\\e14.jpg",
+      "IsFlipped": false,
+      "IsMatched": false
+    },
+    {
+      "ImagePath": "C:\\Users\\Asus\\Desktop\\Anul II\\Semestrul II\\MAP\\JocMemory\\JocMemory\\bin\\Debug\\Images/Eggs\\e3.jpg",
+      "IsFlipped": false,
+      "IsMatched": false
+    },
+    {
+      "ImagePath": "C:\\Users\\Asus\\Desktop\\Anul II\\Semestrul II\\MAP\\JocMemory\\JocMemory\\bin\\Debug\\Images/Eggs\\e14.jpg",
+      "IsFlipped": false,
+      "IsMatched": false
+    },
+    {
+      "ImagePath": "C:\\Users\\Asus\\Desktop\\Anul II\\Semestrul II\\MAP\\JocMemory\\JocMemory\\bin\\Debug\\Images/Eggs\\e17.jpg",
+      "IsFlipped": true,
+      "IsMatched": true
+    },
+    {
+      "ImagePath": "C:\\Users\\Asus\\Desktop\\Anul II\\Semestrul II\\MAP\\JocMemory\\JocMemory\\bin\\Debug\\Images/Eggs\\e13.jpg",
+      "IsFlipped": false,
+      "IsMatched": false
+    },
+    {
+      "ImagePath": "C:\\Users\\Asus\\Desktop\\Anul II\\Semestrul II\\MAP\\JocMemory\\JocMemory\\bin\\Debug\\Images/Eggs\\e18.jpg",
+      "IsFlipped": false,
+      "IsMatched": false
+    },
+    {
+      "ImagePath": "C:\\Users\\Asus\\Desktop\\Anul II\\Semestrul II\\MAP\\JocMemory\\JocMemory\\bin\\Debug\\Images/Eggs\\e15.jpg",
+      "IsFlipped": false,
+      "IsMatched": false
+    },
+    {
+      "ImagePath": "C:\\Users\\Asus\\Desktop\\Anul II\\Semestrul II\\MAP\\JocMemory\\JocMemory\\bin\\Debug\\Images/Eggs\\e13.jpg",
+      "IsFlipped": false,
+      "IsMatched": false
+    },
+    {
+      "ImagePath": "C:\\Users\\Asus\\Desktop\\Anul II\\Semestrul II\\MAP\\JocMemory\\JocMemory\\bin\\Debug\\Images/Eggs\\e18.jpg",
+      "IsFlipped": false,
+      "IsMatched": false
+    },
+    {
+      "ImagePath": "C:\\Users\\Asus\\Desktop\\Anul II\\Semestrul II\\MAP\\JocMemory\\JocMemory\\bin\\Debug\\Images/Eggs\\e16.jpg",
+      "IsFlipped": false,
+      "IsMatched": false
+    },
+    {
+      "ImagePath": "C:\\Users\\Asus\\Desktop\\Anul II\\Semestrul II\\MAP\\JocMemory\\JocMemory\\bin\\Debug\\Images/Eggs\\e5.jpg",
+      "IsFlipped": false,
+      "IsMatched": false
+    },
+    {
+      "ImagePath": "C:\\Users\\Asus\\Desktop\\Anul II\\Semestrul II\\MAP\\JocMemory\\JocMemory\\bin\\Debug\\Images/Eggs\\e17.jpg",
+      "IsFlipped": true,
+      "IsMatched": true
+    }
+  ]
+}

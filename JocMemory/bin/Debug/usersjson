@@ -1,0 +1,26 @@
+[
+  {
+    "Name": "Diana",
+    "ImagePath": "Avatars\\e.jpg",
+    "GamesPlayed": 0,
+    "GamesWon": 0
+  },
+  {
+    "Name": "Adelina",
+    "ImagePath": "Avatars\\d.jpg",
+    "GamesPlayed": 1,
+    "GamesWon": 0
+  },
+  {
+    "Name": "Gabici",
+    "ImagePath": "Avatars\\a.jpg",
+    "GamesPlayed": 2,
+    "GamesWon": 2
+  },
+  {
+    "Name": "Ingrid",
+    "ImagePath": "Avatars\\d.jpg",
+    "GamesPlayed": 0,
+    "GamesWon": 0
+  }
+]
